@@ -1,17 +1,17 @@
-# 👋 Hello, I'm Lebohang
+# 👋 Hello, I'm Siya
 
-
-I'm a **Data Analyst** and **Business Intelligence Enthusiast** who thrives on turning complex data into powerful insights.  
-I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Storytelling** to drive informed decision-making.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ratau-Lebohang/Project-Archives/aa6c237394d7f3f566493c8fe9ce8395fe24c027/Banner%202.jpg"
+    alt="Profile Banner"
+  />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Passionate about transforming raw data into strategic insights
-- 🛠️ Skilled in real-world analytics, reporting, and dashboard building
-- 🎯 Driven by curiosity, creativity, and continuous learning
-- 🎨 Outside of work, you'll find me choreographing dynamic dance moves, conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
+
 ---
 
 
@@ -32,12 +32,9 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 
 ## 📁 Featured Projects
 
-🔗 *Explore my full portfolio here: [Portfolio Repository](https://github.com/yourusername/yourportfolio)*
-
 
 
 ## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinprofile)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
